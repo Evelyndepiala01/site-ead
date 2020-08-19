@@ -1,0 +1,35 @@
+- Dados não devem ficar na aplicação
+    - [ ]  Perder/Corromper
+    - [ ]  Segurança
+    - [ ]  Responsabilidades
+- [SQL](https://en.wikipedia.org/wiki/SQL)
+    - [ ]  Structured Query Language
+    - [ ]  Linguagem para
+        - [ ]  Criar
+        - [ ]  Consultar
+        - [ ]  Atualizar
+        - [ ]  Deletar
+        - [ ]  Mais...
+    - [ ]  Tabelas - Entidades - Relações:
+
+        #️⃣  Colunas e linhas
+
+- Tecnologia utilizada
+    - [ ]  [SQLite](https://www.sqlite.org/index.html)
+    - [ ]  Open-source e fácil de configurar
+    - [ ]  Banco de dados que reside na própria aplicação
+    - [ ]  Excelente para quem está começando no mundo SQL
+
+## 🏄🏾‍♀️ Bora Codar!
+
+- [ ]  Instalar o `sqlite3`
+- [ ]  Criar arquivo de configuração do banco de dados `db.js`
+- [ ]  Criar o objeto que irá fazer operações no banco de dados
+- [ ]  Operações
+    - [ ]  Criar tabela no banco de dados
+    - [ ]  Inserir um dado na tabela
+    - [ ]  Consultar um dado na tabela
+    - [ ]  Apagar um dado da tabela
+- [ ]  Exportar o objeto para ser usado em outro local
+- [ ]  Importar o banco de dados no [server.js](https://www.notion.so/Back-end-a5747fd6bfa34e799e6e0ded51f5ec63)
+- [ ]  Utilizar o banco de dados nas rotas
