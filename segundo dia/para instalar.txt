@@ -1,2 +1,0 @@
-- [ ]  Instalar o sqlite3
-- [ ]  Criar arquivo de configuração do banco de dados db.js
