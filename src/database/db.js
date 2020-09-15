@@ -1,6 +1,5 @@
 const Database = require('sqlite-async')
 
-
 function execute(db) {
     return db.exec(`
    CREATE TABLE IF NOT EXISTS proffys (
@@ -13,7 +12,7 @@ function execute(db) {
 
       CREATE TABLE IF NOT EXISTS classes (
         id INTEGER PRIMARY KEY AUTOINCREMENT, 
-        subject TEXT,
+        subject INTERGER,
         cost TEXT,
         proffy_id INTERGER
       );
